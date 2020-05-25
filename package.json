@@ -26,7 +26,7 @@
     "url": "https://github.com/FpRezDev/gulp-rollup-bootstrap-custom/issues"
   },
   "homepage": "https://github.com/FpRezDev/gulp-rollup-bootstrap-custom#readme",
-  "devDependencies": {
+  "dependencies": {
     "@babel/plugin-proposal-object-rest-spread": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
     "bootstrap": "^4.5.0",
