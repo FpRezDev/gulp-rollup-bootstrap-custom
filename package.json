@@ -25,5 +25,14 @@
   "bugs": {
     "url": "https://github.com/FpRezDev/gulp-rollup-bootstrap-custom/issues"
   },
-  "homepage": "https://github.com/FpRezDev/gulp-rollup-bootstrap-custom#readme"
+  "homepage": "https://github.com/FpRezDev/gulp-rollup-bootstrap-custom#readme",
+  "devDependencies": {
+    "bootstrap": "^4.5.0",
+    "gulp-copy-libs": "^1.0.1",
+    "gulp-js-rollup-babel": "^1.0.4",
+    "gulp-node-env": "^1.0.2",
+    "gulp-sass-autoprefixer": "^1.0.1",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
 }
