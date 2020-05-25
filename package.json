@@ -1,0 +1,29 @@
+{
+  "name": "gulp-rollup-bootstrap-custom",
+  "version": "1.0.0",
+  "description": "Gulp plugin to wrap up a custom Bootstrap js and sass project quickly, including libs copy to root as well. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FpRezDev/gulp-rollup-bootstrap-custom.git"
+  },
+  "keywords": [
+    "gulp",
+    "rollup",
+    "babel",
+    "sass",
+    "bootstrap",
+    "custom",
+    "libs",
+    "bundle"
+  ],
+  "author": "FpRezDev <fprez.developer@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FpRezDev/gulp-rollup-bootstrap-custom/issues"
+  },
+  "homepage": "https://github.com/FpRezDev/gulp-rollup-bootstrap-custom#readme"
+}
