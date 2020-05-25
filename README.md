@@ -1,12 +1,15 @@
 # gulp-rollup-bootstrap-custom
 Gulp plugin to wrap up a custom Bootstrap js and sass project quickly, including libs copy to root as well. 
 
+You can install package using configuration files shown in example / or simply clone [bootstrap-custom](https://github.com/FpRezDev/bootstrap-custom) project template on github which utilizes the plugin. 
+
 Install
-========
+======
 
 ```
 npm i -D gulp-rollup-bootstrap-custom
 ```
+
 
 Usage
 ======
@@ -220,3 +223,5 @@ exports.buildJs = () => { return buildJs(jsConfig); };
 exports.buildLibs = () => { return buildLibs(libsConfig); };
 
 ```
+
+Cl

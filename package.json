@@ -1,6 +1,6 @@
 {
   "name": "gulp-rollup-bootstrap-custom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gulp plugin to wrap up a custom Bootstrap js and sass project quickly, including libs copy to root as well. ",
   "main": "index.js",
   "scripts": {
