@@ -1,5 +1,7 @@
 #dev-files
-gulpfile.js
 node_modules
 .browserslistrc
 babel.config.json
+gulpfile.js
+wwwroot/
+src/
